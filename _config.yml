@@ -1,30 +1,33 @@
 # Permalinks
-permalink:           pretty
+permalink: pretty
 
 # Setup
-title:               Michigan AI Blog
+title: Michigan AI Blog
 tagline:            
-url:                 https://michiganaiblog.github.io
-paginate:            1
-baseurl:             ""
+url: https://michiganaiblog.github.io
+paginate: 1
+baseurl: ""
 
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
 sass:
-  sass_dir:          _sass
-  style:            :compressed
+  sass_dir: _sass
+  style: :compressed
 
 # About/contact
 author:
-  name:              Michigan AI
+  name: Michigan AI
   url:               
-  email:             preetir@umich.edu
+  email: preetir@umich.edu
 
 # Custom vars
-version:             2.0.0
+version: 2.0.0
 github:
   repo:              
+
+pages_list:
+  About: '/about/'
 
 # Gems
 gems:
