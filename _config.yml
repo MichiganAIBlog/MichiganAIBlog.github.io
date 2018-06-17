@@ -29,6 +29,7 @@ github:
 pages_list:
   About: '/about/'
   Archive: '/archive/'
+  Subscribe: '/subscribe/'
 
 # Gems
 gems:
