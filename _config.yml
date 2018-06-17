@@ -28,6 +28,7 @@ github:
 
 pages_list:
   About: '/about/'
+  Archive: '/archive/'
 
 # Gems
 gems:
