@@ -8,6 +8,9 @@
     {% else %}
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
+    {% if site.tags != "" %}
+      {% include collecttags.html %}
+    {% endif %}
   </title>
 
   <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
