@@ -3,12 +3,16 @@ permalink: pretty
 
 # Setup
 title: Michigan AI Blog
+title_image: '/public/AI-LAB.svg'
 tagline:            
 url: https://michiganaiblog.github.io
 paginate: 1
 baseurl: ""
 
 # Assets
+assets:
+  sources:
+   - _assets/fonts
 #
 # We specify the directory for Jekyll so we can use @imports.
 sass:

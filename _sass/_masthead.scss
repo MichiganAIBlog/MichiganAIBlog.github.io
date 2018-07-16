@@ -1,8 +1,14 @@
 // Masthead
 //
 // Super small header above the content for site name and short description.
+.mast-container {
+  background: $yellow;
+}
 
 .masthead {
+  max-width: 60rem;
+  padding-left:  1.5rem;
+  padding-right: 1.5rem;
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
@@ -17,7 +23,12 @@
     color: inherit;
   }
 
+  img {
+    float: left;
+  }
+
   small {
+#    float: right;
     font-size: 75%;
     font-weight: 400;
     opacity: .5;
