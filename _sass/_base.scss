@@ -24,6 +24,14 @@ html {
   }
 }
 
+@font-face {
+    font-family: 'univers_55regular';
+    src: url('/assets/fonts/univers/Univers-Light-Normal.ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 body {
   color: $body-color;
   background-color: $body-bg;

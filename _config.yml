@@ -12,7 +12,7 @@ baseurl: ""
 # Assets
 assets:
   sources:
-   - _assets/fonts
+   - assets/fonts
 #
 # We specify the directory for Jekyll so we can use @imports.
 sass:
@@ -31,9 +31,10 @@ github:
   repo:              
 
 pages_list:
-  About: '/about/'
-  Archive: '/archive/'
   Subscribe: '/subscribe/'
+  Archive: '/archive/'
+  About: '/about/'
+  # Tags: '/tags/'
 
 # Gems
 gems:

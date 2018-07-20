@@ -7,11 +7,17 @@
      <div class="mast-container content">
       <header class="masthead">
 	<h3 class="masthead-title">
-	<a href="/" title="Home"><img src="{{ site.title_image }}"></a>
+	<a href="/" title="Home"><img class="m-logo" src="{{ site.title_image }}"></a>
+        &nbsp;
 	{% for page in site.pages_list %}
-	  &nbsp;&nbsp;&nbsp;
-	  <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
-	{% endfor %}
+	  &nbsp;
+	  <small><a href="{{ page[1]  }}">{{ page[0] }}</a>
+	{% if page[0] != 'About' %}
+         &nbsp; | </small>
+        {% else %}
+        </small>
+        {% endif %}
+        {% endfor %}
 	</h3>
       </header>
      </div>
