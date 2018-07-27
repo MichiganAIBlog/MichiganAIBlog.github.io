@@ -27,10 +27,14 @@
 .post-date {
   display: block;
   margin-top: -.5rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
   color: #9a9a9a;
 }
 
+// Tags per post
+.tags {
+  margin-bottom: 0.5rem;
+}
 
 // Related posts
 .related {

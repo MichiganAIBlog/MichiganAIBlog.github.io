@@ -25,8 +25,10 @@ html {
 }
 
 @font-face {
-    font-family: 'univers_55regular';
-    src: url('/assets/fonts/univers/Univers-Light-Normal.ttf');
+    font-family: 'Univers-Light-Normal';
+    src: url('/assets/fonts/univers/Univers-Light-Normal.ttf') format('truetype');
+    src: url('/assets/fonts/univers/Univers-Light-Normal.woff2') format('woff2'),
+        url('/assets/fonts/univers/Univers-Light-Normal.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
