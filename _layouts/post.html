@@ -4,7 +4,10 @@ layout: default
 
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
+  <div class="sub-title">
+  <div class="author">by <a href={{ page.author_link }}>{{ page.author }}</a>&nbsp;&nbsp;|&nbsp;&nbsp;</div>
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
+  </div>
 
 <div class="tags">
   <span>[
@@ -13,6 +16,7 @@ layout: default
       <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
     {% endfor %}
 ]</span></div>
+
 
   {{ content }}
 </article>
