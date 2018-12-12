@@ -52,7 +52,7 @@ One way to approach these questions is to use computer science. This can be done
 
 Soar is a cognitive architecture that can be used to model the human brain that can perform task such as the RAT. Soar allows us to test the hypothesis that priming helps humans solve the RAT. In Soar, you can create a program that uses priming and another that doesn’t when solving RAT problems. By comparing these results to human performance, we gain information on how humans solve the RAT. 
 
-From running such experiments in Soar we found that priming does result in more human like performance on RAT problems. This is evidence that humans do rely on priming when solving the RAT problems. This is a concrete example of how we can use computer science to gain insights into the human brain.
+From running such experiments in Soar we found that priming does result in more human like performance on RAT problems. This is evidence that humans do rely on priming when solving RAT problems. This is a concrete example of how we can use computer science to gain insights into the human brain.
 
 If you want more information on my research in the use of Soar for solving RAT problems, check out the paper:
 
