@@ -17,7 +17,7 @@ title: Home
   <div class="author">by <a href={{ post.author_link }}>{{ post.author }}</a>&nbsp;&nbsp;|&nbsp;&nbsp;</div>
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
   </div>
-    {{ post.excerpt }}
+    {{ post.content | strip_html | truncatewords:50 }}
   <h4> 
     <a href="{{ site.baseurl }}{{ post.url }}">
         Continue
