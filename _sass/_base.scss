@@ -57,6 +57,16 @@ a {
   }
 }
 
+blockquote {
+  font-size: 150%;
+}
+
+blockquote cite {
+	font-size: 50%;
+}
+img {
+    max-width: 100%;
+}
 /*img {
   display: block;
   max-width: 50%;
