@@ -21,7 +21,7 @@ Even the same word can mean different things in different contexts. Consider the
 <li>The beginning ballet students held onto the <b>bar</b> for balance.</li>
 </ul>
 
-<figure class="image" align="center"><img src="/assets/2018-07-23/chocolate_bar.png"><figcaption align="center"><small><i>A <b>bar</b> that serves chocolate <b>bars</b>? Oh, the ambiguity!</i> (photo credit: <a href="http://web.eecs.umich.edu/~mazab/">Mahmoud Azab</a>)</small></figcaption></figure>
+<figure align="center"><img src="/assets/2018-07-23/chocolate_bar.png"><figcaption align="center"><small><i>A <b>bar</b> that serves chocolate <b>bars</b>? Oh, the ambiguity!</i> (photo credit: <a href="http://web.eecs.umich.edu/~mazab/">Mahmoud Azab</a>)</small></figcaption></figure>
 
 Given all of this complexity, how is a computer system supposed to understand words and language? Answering this question is a major goal within the field of natural language processing (NLP). When we input a word into a computer, we would ideally like the computer to understand the meaning of that word, as well as its common usage and properties. For example, given the word “cat,” we want a computer to understand that a cat is an animal, that it has fur and four legs, that it’s commonly kept as a household pet, etc. We also want it to understand how each word interacts with other words -- cats like to sunbathe and catch mice and boss around their personal servants (er, owners). We also want to know that a cat is more similar to a dog, for instance, than it is to a car. A dictionary provides some of this information, but it also omits many practical details, due to its brevity.
 
