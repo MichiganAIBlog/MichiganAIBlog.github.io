@@ -64,6 +64,30 @@ blockquote {
 blockquote cite {
 	font-size: 50%;
 }
+
+.image {
+  max-width: 100%;
+  display: flex;
+  width: 100%;
+}
+
+.column {
+  flex: 50%;
+  padding: 5px;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media all and (max-width: 500px) {
+
+  .image {
+    flex-wrap: wrap;
+  }
+
+  .image > .column {
+    flex-basis: 50%;
+  }
+}
+
 img {
     max-width: 100%;
 }
