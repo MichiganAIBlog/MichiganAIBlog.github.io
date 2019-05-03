@@ -65,15 +65,15 @@ If you’re interested in learning more about word embeddings, check out the fol
 “Deep Learning, NLP, and Representations” by Christopher Olah [<a href="http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/">link</a>]<br/>
 
 <i><b>Textbooks</b></i><br/>
-<u>Speech and Language Processing (3rd ed. draft)</u> by Dan Jurafsky and James H. Martin - Chapter 15, “Vector Semantics”; Chapter 16, “Semantics with Dense Vectors” [<a href="https://web.stanford.edu/~jurafsky/slp3/">link</a>]<br/>
-<u>Natural Language Processing</u> by Jacob Eisenstein - Chapter 14, “Distributional and Distributed Semantics” [<a href="https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf">link</a>]<br/>
-<u>Neural Network Methods for Natural Language Processing</u> by Yoav Goldberg - Chapter 10, “Pre-trained Word Representations”; Chapter 11, “Using Word Embeddings” [<a href="https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037">link</a>]<br/>
+<u>Speech and Language Processing (3rd ed. draft)</u> by Dan Jurafsky and James H. Martin - Chapter 15, “Vector Semantics”; Chapter 16, “Semantics with Dense Vectors” [[link](https://web.stanford.edu/~jurafsky/slp3/)] <br/>
+<u>Natural Language Processing</u> by Jacob Eisenstein - Chapter 14, “Distributional and Distributed Semantics” [[link](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)]<br/>
+<u>Neural Network Methods for Natural Language Processing</u> by Yoav Goldberg - Chapter 10, “Pre-trained Word Representations”; Chapter 11, “Using Word Embeddings” [[link](https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037)] <br/>
 
 <i><b>Code for Word Embeddings</b></i><br/>
-“Word2vec Tutorial” by Radim Řehůřek [<a href="https://rare-technologies.com/word2vec-tutorial/">link</a>]<br/>
-“GloVe: Global Vectors for Word Representation” by Jeffrey Pennington, Richard Socher, and Christopher D. Manning [<a href="https://nlp.stanford.edu/projects/glove/">link</a>]<br/>
-“Quora: Where can I find some pre-trained word vectors for natural language processing/understanding?” [<a href="https://www.quora.com/Where-can-I-find-some-pre-trained-word-vectors-for-natural-language-processing-understanding">link</a>]<br/>
+“Word2vec Tutorial” by Radim Řehůřek [[link](https://rare-technologies.com/word2vec-tutorial/)]<br/>
+“GloVe: Global Vectors for Word Representation” by Jeffrey Pennington, Richard Socher, and Christopher D. Manning [[link](https://nlp.stanford.edu/projects/glove/")]<br/>
+“Quora: Where can I find some pre-trained word vectors for natural language processing/understanding?” [[link](https://www.quora.com/Where-can-I-find-some-pre-trained-word-vectors-for-natural-language-processing-understanding)]<br/>
 
 <i><b>Research Papers</b></i><br/>
-<i>[our paper]</i> Wendlandt, Laura, Jonathan K. Kummerfeld, and Rada Mihalcea. "Factors Influencing the Surprising Instability of Word Embeddings." NAACL-HLT (2018). [<a href="http://wendlandt.github.io/papers/naacl18embeddings.pdf">link</a>]<br/>
-Camacho-Collados, Jose, and Taher Pilehvar. "From Word to Sense Embeddings: A Survey on Vector Representations of Meaning." arXiv preprint arXiv:1805.04032 (2018). [<a href="https://arxiv.org/abs/1805.04032">link</a>]<br/>
+<i>[our paper]</i> Wendlandt, Laura, Jonathan K. Kummerfeld, and Rada Mihalcea. "Factors Influencing the Surprising Instability of Word Embeddings." NAACL-HLT (2018). [[link](http://wendlandt.github.io/papers/naacl18embeddings.pdf)]<br/>
+Camacho-Collados, Jose, and Taher Pilehvar. "From Word to Sense Embeddings: A Survey on Vector Representations of Meaning." arXiv preprint arXiv:1805.04032 (2018). [[link](https://arxiv.org/abs/1805.04032)]<br/>

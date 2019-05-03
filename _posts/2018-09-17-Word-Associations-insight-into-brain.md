@@ -56,19 +56,16 @@ From running such experiments in Soar we found that priming does result in more 
 
 If you want more information on my research in the use of Soar for solving RAT problems, check out the paper:
 
-<a href="https://soar.eecs.umich.edu/pubs/schatz_iccm18.pdf" target="_blank">https://soar.eecs.umich.edu/pubs/schatz_iccm18.pdf</a>
+[https://soar.eecs.umich.edu/pubs/schatz_iccm18.pdf](https://soar.eecs.umich.edu/pubs/schatz_iccm18.pdf)
 
 You can also go to the github where all the code for the project lives!
-<a href="https://github.com/schatzju/RAT_research" target="_blank">https://github.com/schatzju/RAT_research</a>
+[https://github.com/schatzju/RAT_research](https://github.com/schatzju/RAT_research)
 
-More information on priming:
-<a href="https://en.wikipedia.org/wiki/Priming_(psychology)" target="_blank">https://en.wikipedia.org/wiki/Priming_(psychology)</a>
+More information on priming: [https://en.wikipedia.org/wiki/Priming_(psychology)](https://en.wikipedia.org/wiki/Priming_(psychology))
 
-More information on Soar:
-<a href="https://soar.eecs.umich.edu/" target="_blank">https://soar.eecs.umich.edu</a>
+More information on Soar: [https://soar.eecs.umich.edu/](https://soar.eecs.umich.edu/)
 
-More information on General AI and cognitive architectures:
-<a href="http://www.cogsys.org/pdf/paper-1-2.pdf" target="_blank">http://www.cogsys.org/pdf/paper-1-2.pdf</a>
+More information on General AI and cognitive architectures: [http://www.cogsys.org/pdf/paper-1-2.pdf](http://www.cogsys.org/pdf/paper-1-2.pdf)
 
 
 RAT Answers: super, bowl, walk
