@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Heathcare and Big Data&#58; 3 Questions with Jenna Wiens
+title: Healthcare and Big Data&#58; 3 Questions with Jenna Wiens
 author: IHPI
-author_link: 
+author_link: https://ihpi.umich.edu/ 
 comments: true
 tags: interview healthcare machine-learning big-data
 ---
