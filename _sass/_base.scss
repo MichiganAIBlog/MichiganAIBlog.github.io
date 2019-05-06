@@ -65,6 +65,19 @@ blockquote cite {
 	font-size: 50%;
 }
 
+.column-div {
+   img {
+    display: inline-block;
+    vertical-align: top;
+    width: 46%;
+  }
+  div {
+    padding: 1em 0 0 1em;
+    display: inline-block;
+    width: 46%;
+  }
+}
+
 .image {
   max-width: 100%;
   display: flex;
