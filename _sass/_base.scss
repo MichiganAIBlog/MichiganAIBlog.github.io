@@ -78,6 +78,19 @@ blockquote cite {
   }
 }
 
+.text-column-div {
+   img {
+    display: inline-block;
+    vertical-align: bottom;
+	width: 21%;
+  }
+  div {
+    display: inline-block;
+	vertical-align: bottom;
+	width: 71%;
+  }
+}
+
 .image {
   max-width: 100%;
   display: flex;
