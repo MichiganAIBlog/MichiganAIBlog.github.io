@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Word embeddings and how they vary
-author: Laura Wendlandt
-author_link: https://wendlandt.github.io
+author: Laura Burdick
+author_link: https://laura-burdick.github.io
 comments: true
 tags: natural-language-processing word-embeddings language machine-learning
 ---
