@@ -7,6 +7,8 @@ comments: true
 tags: Human-AI-Interaction Human-in-the-loop machine-learning
 ---
 
+_This article contains a description of an AI project which was awarded the "Best Poster Award” by the public at the University of Michigan AI Symposium 2019._
+
 Machine learning techniques, especially deep learning, have been widely applied to solve a variety of problems ranging from classifying email spam to detecting toxic language. However, deep learning often requires a massive amount of labeled training data, which is very costly, and sometimes may be infeasible to obtain. In low-resource settings (e.g. when labeled data is scarce, or when training data only represents a subclass of the testing data), machine learning models tend to not generalize well. For example, reviewing legal contracts is a tedious task for lawyers. To help facilitate the process, machine learning methods can be used to extract documents relevant to certain clauses. However, the company (e.g. IBM) that produces the model can only get a large number of their own contracts, whereas contracts of others (e.g. Google, Apple) is hard to obtain, causing the model trained to overfit and not generalize well on contracts pertinent to other companies. 
 
 
